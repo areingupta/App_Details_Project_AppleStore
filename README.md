@@ -18,4 +18,25 @@
 
 3) On the basis of the Outcomes and Observations, the following Recommendations can be made:
 
-   a) 
+   a) From query for apps per genre -
+
+   ![Model](Query_Results/app_per_genre_1.png)
+   ![Model](Query_Results/apps_per_genre_2.png)
+
+   b) From query for User Ratings (Max, Min, and Average) -
+
+   ![Model](Query_Results/total_ratings.png)
+
+   c) For query on relation between paid/free apps and user rating
+
+   ![Model](Query_Results/payment_type.png)
+
+   d) For query about language supports
+
+   ![Model](Query_Results/language_support_ratings.png)
+
+   e) For query about description length and associated user ratings
+
+   ![Model](Query_Results/descp_length_rating.png)
+
+   f) 
