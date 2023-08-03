@@ -1,1 +1,2 @@
-# App_Details_Project_AppleStore
+# SQL Project on Analysis of Key Metrics related to Apps available on App Store
+
