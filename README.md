@@ -20,14 +20,20 @@
 
    a) From query for apps per genre -
 
+   It is found that there's a high degree of saturation in genres like Gaming, Education, Entertainment etc. Thus it would be difficult to launch another product in them. Despite quality, there's a chance that the application might not gain traction due to high competetiveness.
+
+   Instead the Developer could target low saturated genres like Navigation and Business.
+
    ![Model](Query_Results/app_per_genre_1.png)
    ![Model](Query_Results/apps_per_genre_2.png)
 
    b) From query for User Ratings (Max, Min, and Average) -
 
+   The average app rating across all apps is ~3.52, thus the developer should target to reach a minimum threshold of this value.
+
    ![Model](Query_Results/total_ratings.png)
 
-   c) For query on relation between paid/free apps and user rating
+   c) For query on relation between paid/free apps and user rating -
 
    ![Model](Query_Results/payment_type.png)
 
