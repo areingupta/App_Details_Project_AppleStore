@@ -57,6 +57,16 @@ SELECT CASE
 FROM AppleStore
 GROUP BY App_Type;
 
+-- CHECK THE NUMBER OF PAID AND FREE APPS 
+
+SELECT case 
+            when price > 0 then 'Paid'
+            else 'Free'
+       end as App_Type,
+       count(price) as Number_of_Apps
+FROM AppleStore
+group by App_Type;
+
 -- CHECK IF APPS WITH HIGHER SUPPORTED LANGUAGES HAVE HIGHER RATING 
 
 SELECT CASE
