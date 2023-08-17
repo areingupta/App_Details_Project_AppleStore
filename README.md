@@ -18,7 +18,7 @@
 
 3) The Dashboard:
 
-   ![Model](Dashboard 1.png)
+   ![Model](Dashboard_1.png)
 
    
 4) On the basis of the Outcomes and Observations, the following Recommendations can be made:
