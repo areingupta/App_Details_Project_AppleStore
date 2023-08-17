@@ -16,7 +16,12 @@
 
    f) Top Applications in each Genre etc.
 
-3) On the basis of the Outcomes and Observations, the following Recommendations can be made:
+3) The Dashboard:
+
+   ![Model](Dashboard 1.png)
+
+   
+4) On the basis of the Outcomes and Observations, the following Recommendations can be made:
 
    a) From query for apps per genre -
 
